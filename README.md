@@ -7,4 +7,4 @@ second commit. Done by local machine
 !
 hi!!!
 
-i realy enjoyed working with you
+I realy enjoyed working with you
